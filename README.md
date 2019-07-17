@@ -1,13 +1,13 @@
 # Refinet: An encoder-decoder structured deep neural net with refinement subnet for real-time semantic segmentation
 
-![Image of cityscapes](https://image.ibb.co/i5tEQR/CITY.png)
+![Image of cityscapes](train_py/samples/test_bremen_000131_000019.jpg)
 Sample segmentation results on Cityscapes dataset.
 
-![Image of Persons](https://image.ibb.co/nJRa3c/github_bruno.png)
-Sample segmentation results on Cityscapes dataset.
+![Image of Persons](train_py/samples/test_ap_000_01-11-2015_19-20-57_000005_0_Rand_2.jpg)
+Sample segmentation results on Synthia dataset.
 
-![Image of cwc](https://image.ibb.co/fcKXC6/CWC.png)
-Sample segmentation results on Cityscapes dataset.
+![Image of cwc](train_py/samples/test__2016-05-27-10-26-48_5_frame176.jpg)
+Sample segmentation results on Bonn Crop Weed dataset.
 
 
 ## Description
